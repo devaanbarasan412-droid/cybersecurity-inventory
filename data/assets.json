@@ -1,0 +1,32 @@
+[
+    {
+        "AssetID": "A101",
+        "AssetName": "HR-PC-01",
+        "AssetType": "Workstation",
+        "IPAddress": "192.168.1.10",
+        "OperatingSystem": "Windows 11",
+        "Department": "HR",
+        "RiskLevel": "Medium",
+        "SecurityStatus": "Secure"
+    },
+    {
+        "AssetID": "A102",
+        "AssetName": "Web-Server",
+        "AssetType": "Server",
+        "IPAddress": "192.168.1.20",
+        "OperatingSystem": "Ubuntu",
+        "Department": "IT",
+        "RiskLevel": "Critical",
+        "SecurityStatus": "Vulnerable"
+    },
+    {
+        "AssetID": "A103",
+        "AssetName": "Core-Router",
+        "AssetType": "Router",
+        "IPAddress": "192.168.1.1",
+        "OperatingSystem": "Cisco IOS",
+        "Department": "Network",
+        "RiskLevel": "High",
+        "SecurityStatus": "Warning"
+    }
+]
